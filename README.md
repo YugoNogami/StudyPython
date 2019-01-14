@@ -2,8 +2,12 @@ StudyPython
 =============
 
 # コマンド
-``` flake8 xxx.py
-    pytest
+``` 
+# コードのチェック
+$ flake8 xxx.py
+
+# テスト実行
+$ pytest
 ```
 
 # 参考サイト
