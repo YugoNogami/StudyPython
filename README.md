@@ -2,7 +2,8 @@ StudyPython
 =============
 
 # コマンド
-``` flake8 xxx.py
+``` 
+    flake8 xxx.py
     pytest
 ```
 
