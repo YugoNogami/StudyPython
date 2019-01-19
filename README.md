@@ -7,6 +7,14 @@ StudyPython
     pytest
 ```
 
+# pipenv
+```
+pipenv install
+#PipfileとPipfile.lockが作られる。
+pipenv install xlrd
+```
+https://qiita.com/subarunari/items/dcbdad68ba1809b721b9
+
 # 参考サイト
 ## flake8
 https://blog-ja.sideci.com/entry/2017/06/20/110000
