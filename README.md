@@ -3,12 +3,15 @@ StudyPython
 
 # コマンド
 ``` 
-# コードのチェック
-$ flake8 xxx.py
-
-# テスト実行
-$ pytest
 ```
+
+# pipenv
+```
+pipenv install
+#PipfileとPipfile.lockが作られる。
+pipenv install xlrd
+```
+https://qiita.com/subarunari/items/dcbdad68ba1809b721b9
 
 # 参考サイト
 ## flake8
