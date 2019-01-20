@@ -3,8 +3,6 @@ StudyPython
 
 # コマンド
 ``` 
-    flake8 xxx.py
-    pytest
 ```
 
 # pipenv
